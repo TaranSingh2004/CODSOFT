@@ -7,7 +7,7 @@ public class Task1{
 		
 		//creating a random number by using nextDouble() which creates number between 0.0 to 1.0
 		
-        int num=(int)(100*rand.nextDouble());
+        int number=(int)(100*rand.nextDouble());
 		System.out.println("This game is called Guess the number");
 		System.out.println("Please enter the number of trials u needed: ");
 		
